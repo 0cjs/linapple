@@ -8,3 +8,5 @@ res/charset*.xpm
 *.swp
 *.swo
 *.orig
+
+/tags
